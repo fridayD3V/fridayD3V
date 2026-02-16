@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Klim!
 
-<!--
-**fridayD3V/fridayD3V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student | Aspiring Java Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+* 🎓 **Background:** Currently studying Computer Science, building a solid foundation in software development.
+* 🌱 **Currently learning:** Deepening my knowledge of Spring Framework (MVC, Data JPA), microservices architecture, and Docker.
+* 🎯 **Goal:** Looking to apply my programming knowledge in practice through real-world projects and internships.
+
+---
+
+🌐 **Check out my portfolio:** [fridayd3v.github.io](https://fridayd3v.github.io)
