@@ -1,3 +1,3 @@
-# Hi there, I'm Klim! 👋
+# Hi there, I'm Klim!
 
-**Computer Science Student | Aspiring Java Developer**
+**Computer Science Student | Java Backend Developer**
